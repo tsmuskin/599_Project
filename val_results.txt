@@ -1,0 +1,1667 @@
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: '  my nigga hit the qwop '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "my nigga hit the qwop
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'when men enter my dyke ass mentions while im minding my dyke ass business '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "when men enter my dyke ass
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: '  hand off mampintsha u cunt '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "hand off mampintsha u
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'tried to call zo a dyke but she deleted her tweet '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "tried to call zo a dy
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' gag metwitter twat  was is  and always shall be a loser '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "gag metwitter twat was
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'nigga i just saw the red wedding '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "nigga i just saw the
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: '   picture this nigga dbeing a nanny '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "picture this nigga dbeing a
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' fuck off stupid cunt '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "fuck off stupid cunt" is considered
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' this nigga right here '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "this nigga right here" is
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'sjw mob misidentifying who the actual fascist is in this situation liberals my ass '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "sjw mob misidentifying who
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' this nigga buggin the fuck out  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "this nigga buggin the
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' let me say a grace for all men especially those with retarded responses '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "let me say a grace for all
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'nigga said this is sparta '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "nigga said this is sp
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: '   a scruffy twat  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "a scruffy twat" is
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: '  he is mentally retarded person '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "he is mentally retarded person" is
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' banislam from atlanta  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "banislam from atlanta"
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'hes such a little twat '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "hes such a little twat"
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'nah this cant be real  rt  nigga look like savion glover '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "nah this cant be real rt nig
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' nigga are you maaaad '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "nigga are you maaa
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'just your typical white trash '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "just your typical white trash" is
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' nigga i feel this lol '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "nigga i feel this lol
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: '  thought dude in the back was a dyke with puff balls  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "thought dude in the back was a
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'black millennial plays the race card with black police officer  via  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "Black millennial plays the race card
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'what the fuck this aint chanel nigga custom down workallwintershineallsumma '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text in the image appears to be a mix
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' nigga put his hands in his pocket and bounced  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "nigga put his hands in
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'ok tweeps time for this bunny to go to bed  be nice or at least dont join a sjw mob willingly '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "ok tweeps time for this bunny
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'this nigga eating dick  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "this nigga eating dick" is
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'my young nigga solid i got it he got it  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "my young nigga solid i got
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'talking bout grow up  nigga you grow down  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "talking bout grow up nigga
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' just shoved a morrisons chicken korma with rice in the fucken microwave ya cunt  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "just shoved a morrisons chicken
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'rocking my redneck nation hoodie missing the country music roadie with the music junkies  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "rocking my redneck nation hoodie
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: '  how many times this stripper will play victim card  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "Playing the victim" in the image
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'the fight got me paid stupid spence is dat nigga '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "the fight got me paid stupid sp
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: '  unlucky hernandezyou greedy twat hcafc '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "unlucky hernandezyou
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'uk man converts to islam encourages jihad terrorism on facebook  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The image shows a person speaking at an event with
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' hes you thinking wtf is that cunt doing at my friend  good pic tho right '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "hes you thinking wtf is that
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'good morning from your favorite faggot in houston '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "good morning from your favorite fagg
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'please rt endchainmigration buildthewall stoptheinvasion endbirthrightcitizenship '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "please rt endchainmigration buildthew
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'its free nigga  rip  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "it's free nigga rip"
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'pretty nigga  wassup   '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "pretty nigga wassup"
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: '  nigga is you dyslexic regardless of the tweet i had to say what i said '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "nigga is you dyslex
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'is fighters blitzed into surrender as defeat looms in syria  via  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The image depicts a night sky with bright lights and
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'like pnut butta my nigga ina jam  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "like pnut butta my nig
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'this dyke just told me she loves that i dont give a fuck about what she has to say  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "this dyke just told me she
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: '  lmfao typical sjw whatever happened to freedom of speech '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "lmfao typical sjw whatever
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: '   sjws are the biggest threat to society '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "sjws are the biggest threat to
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' youre only doing that because it sounds like cunt '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "you're only doing that because it
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'living to die nigga we die to live '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "living to die nigga we die
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'hes such a little twat '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "hes such a little twat"
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' you ever heard a lame nigga say niggas lame oxymoron '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "you ever heard a lame nigga
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'he still a bitch ass nigga '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "he still a bitch ass nigga
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: '  useless wall  walls work  buildthewall mr president  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "Make our Military Build The Wall!"
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'nigga be deadass bout this shit '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "nigga be deadass bout
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'twat of the day  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "twat of the day" is
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'how can you be a dyke and an army it just dont add up '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "how can you be a dyke
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'nigga so gone '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "nigga so gone" is
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'nigga drops a  dollar bill everyone '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "nigga drops a dollar bill
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'nigga said this how anime characters talk  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "nigga said this how anime
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'wtf kinda retarded dhivehi font is that  typography thaana comicmv '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "wtf kinda retarded dhivehi
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'gonna tweet this gif again cause she looked like an absolute dyke '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "gonna tweet this gif again cause
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' im such a simple cunt '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "I'm such a simple cunt"
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: '   nigga be tripping for fresh boobs already the poster na boy o '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "nigga be tripping for
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'my brother just called me a faggot '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "my brother just called me a f
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' i gave you an order nigga '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "I gave you an order nigga
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'young nigga been focused on my check  mhmmmmmmmm  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "young nigga been focused on my
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'flashbackfriday  listening to the marshal mathers lp and cringing a bit every time i hear the word faggot '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "listening to the marshal mathers lp
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'where my bros at feminismiscancer flashback realmen sjw '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "where my bros at feminismisc
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'hol up lemme get it started bb with the robins lookin all retarded '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "hol up lemme get it started
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: '  my nigga stew judging these woahchallenges like randy jackson '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "my nigga stew judging these wo
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'take a nigga bitch like i take his lunch money '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "take a nigga bitch like I
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: '  cant all be white trash '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "can't all be white trash"
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'just young nigga from z who on the way to the top  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "just young nigga from z who
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'i cant believe some faggot really called me misogynistic like me sure jan '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "i cant believe some faggot
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'sherri saum lena foster in a suit is what my dyke ancestors died for '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "sherri saum lena foster
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'h rap browns us educational system  highlighting chapter two of die nigger die  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "H. Rap Brown's US Educational
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'go tune in for my brother run my nigga views up asap bitch  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "go tune in for my brother run
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: '  here you go please dont kill us all cunt love you  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "here you go please dont kill us
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' thanks nigga have this pic of human wallace '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "thanks nigga have this pic of
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'im convinced this nigga tyga tryna be me and its blowing mine '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "im convinced this nigga tyga
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'redneck christians love putin and his russian regime  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "redneck Christians love Putin and his
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'when a nigga be tryna play his tunes but it just aint it  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "when a nigga be tryna
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'springbreakmiami this what happen wen they dont let young nigga in the clubbless em '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text in the image appears to be a comment
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'the dyke jumped out  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "the dyke jumped out" is
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'being a self entitled cunt is the th deadly sin  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "being a self entitled cunt is the
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'girl ill drink ya bath water face ass nigga  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "girl ill drink ya bath water face
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' how can you be this retarded '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "how can you be this retarded"
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'would pretend i never said dyke for this man '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "would pretend I never said dyke
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'slim nigga sht  tbt '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "slim nigga sht t
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'when you see your nigga '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "when you see your nigga"
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'nigga at the gas station got mad at me cause i aint wanna talk to him '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "nigga at the gas station
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'nigga im crying  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "nigga im crying" does
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'this hoe ass nigga jumped crispy rq big happy birthday to my big baby brother '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "this hoe ass nigga jumped crispy
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'every nigga after hearing billy ray cyrus snap on old town road remix '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "every nigga after hearing billy
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'basically im dykeshe dykewe dyke '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "basically im dykeshe dy
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'erika out here like this nigga cj gon get me caught up in like  different ways '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "erika out here like this nig
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' yeah i was driving cunt '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "yeah i was driving cunt" is
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'females will really try to beef with you just because their nigga likes you '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "females will really try to beef
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' trump is playing the race card '
+
+Based on the image and text above, is this hate speech?
+assistant
+The image and text together suggest that the person in
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'i wanna fuck your fucking fanny off you twat '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "i wanna fuck your fucking fanny
+TRUE: Yes, this is hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: ' u dat nigga cuz  '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "u dat nigga cuz" is
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: system
+You are a helpful assistant.
+user
+Given the following text: 'just some cunt being a cunt '
+
+Based on the image and text above, is this hate speech?
+assistant
+The text "just some cunt being a cunt"
+TRUE: Yes, this is hate speech.
+
+
+=== Evaluation Results ===
+Accuracy:  0.4119
+F1 Score:  0.4893
+Precision: 0.6028
+Recall:    0.4119

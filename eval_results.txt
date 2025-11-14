@@ -1,0 +1,1065 @@
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: No, this is not hate speech.
+TRUE: Yes, this is hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+PRED: Yes, this is hate speech.
+TRUE: No, this is not hate speech.
+
+
+=== Evaluation Results ===
+Accuracy:  0.5439
+F1 Score:  0.5333
+Precision: 0.5615
+Recall:    0.5439
