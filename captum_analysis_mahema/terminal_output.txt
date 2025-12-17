@@ -1,0 +1,251 @@
+
+Loading test data...
+Starting data processing pipeline...
+✅ Loaded 149823 annotations
+✅ Added image paths
+✅ Created labels
+   Binary label distribution:
+binary_label
+0    116790
+1     33033
+Name: count, dtype: int64
+   Majority label distribution:
+majority_label
+0    116790
+1     14183
+5      8196
+2      5375
+3      4926
+4       353
+Name: count, dtype: int64
+✅ Balanced dataset for binary classification (Target Hate Samples: 10,000)
+   Final total samples: 20,000
+   Final binary distribution:
+binary_label
+0    10000
+1    10000
+Name: count, dtype: int64
+✅ Cleaned text data
+✅ Split data
+   Training X size: (16200, 9)
+   Training y size: (16200, 1)
+   Validation X size: (1800, 9)
+   Validation y size: (1800, 1)
+   Testing X size: (2000, 9)
+   Testing y size: (2000, 1)
+
+✅ Data processing complete!
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.52, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+
+Loading trained models...
+All models loaded successfully!
+
+Analyzing 10 samples...
+
+  0%|                                                                                                                                                                                                                                                                                                                                    | 0/10 [00:00<?, ?it/s]
+============================================================
+Analyzing sample 0
+============================================================
+Text: nah this is next level retard 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 49.2%
+Text contribution:  50.8%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['next', 'nah', 'is', 'this', 'ret']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [101:219, 33:216]
+  Box dimensions: 118x183 pixels
+ 10%|███████████████████████████████▌                                                                                                                                                                                                                                                                                            | 1/10 [00:05<00:52,  5.83s/it]
+============================================================
+Analyzing sample 1
+============================================================
+Text: on god donald trump like “what this nigger talking about?” lmaooo 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 4.9%
+Text contribution:  95.1%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['what', 'ľ', 'on', 'god', 'âĢ']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [8:223, 0:223]
+  Box dimensions: 215x223 pixels
+ 20%|███████████████████████████████████████████████████████████████▏                                                                                                                                                                                                                                                            | 2/10 [00:13<00:53,  6.69s/it]
+============================================================
+Analyzing sample 2
+============================================================
+Text: @thakiddblue do wat u do best, suck dick &amp; let trannies fuck u in tha ass fuck u bitch ass nigga!!!! 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 81.92%)
+Image contribution: 43.3%
+Text contribution:  56.7%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['amp', 'dick', '&', 'su', 'ck']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [24:198, 171:215]
+  Box dimensions: 174x44 pixels
+ 30%|██████████████████████████████████████████████████████████████████████████████████████████████▊                                                                                                                                                                                                                             | 3/10 [00:19<00:45,  6.51s/it]
+============================================================
+Analyzing sample 3
+============================================================
+Text: i’m retarded like actually @imjoiiy 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 18.8%
+Text contribution:  81.2%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['actually', 'retarded', '@', 'âĢ', 'i']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [17:213, 23:145]
+  Box dimensions: 196x122 pixels
+ 40%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                                                                                                                                                                                             | 4/10 [00:24<00:36,  6.13s/it]
+============================================================
+Analyzing sample 4
+============================================================
+Text: *back in mw2 days  kid: you little faggot hardscoped me!   me: 1v1 me then bitch 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 3.1%
+Text contribution:  96.9%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['bit', 'mw', 'ch', '*', '2']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:223, 63:215]
+  Box dimensions: 223x152 pixels
+ 50%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                                                                              | 5/10 [00:30<00:28,  5.77s/it]
+============================================================
+Analyzing sample 5
+============================================================
+Text: i was walking out my building and heard some nigger say ‘that’s the hun’ then the other reply ‘oh rlly’ 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 0.7%
+Text contribution:  99.3%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['hun', 'the', 'i', 'walking', 'out']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [35:174, 21:223]
+  Box dimensions: 139x202 pixels
+ 60%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▌                                                                                                                              | 6/10 [00:36<00:23,  5.83s/it]
+============================================================
+Analyzing sample 6
+============================================================
+Text: @secpompeo and by that i mean you know what i mean. give my nigga her pyramid back 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 100.00%)
+Image contribution: 23.0%
+Text contribution:  77.0%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['pyramid', 'back', '@', 'gga', 'sec']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [23:132, 37:202]
+  Box dimensions: 109x165 pixels
+ 70%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                                              | 7/10 [00:43<00:19,  6.35s/it]
+============================================================
+Analyzing sample 7
+============================================================
+Text: @eastwoodreturns i said i wanted "mommygf" not "retarded cow" 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 3.4%
+Text contribution:  96.6%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['gf', 'my', 'mom', '@', 'wanted']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:119, 0:223]
+  Box dimensions: 119x223 pixels
+ 80%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▊                                                               | 8/10 [00:48<00:11,  5.91s/it]
+============================================================
+Analyzing sample 8
+============================================================
+Text: @foxysbuster bc not everyone is a shallow twat that only goes for stick thin guys 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 99.97%)
+Image contribution: 2.0%
+Text contribution:  98.0%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['shallow', 'thin', 'a', 'stick', '@']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:223, 38:205]
+  Box dimensions: 223x167 pixels
+ 90%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▍                               | 9/10 [00:54<00:06,  6.10s/it]
+============================================================
+Analyzing sample 9
+============================================================
+Text: basically im dyke..she dyke..we dyke.. 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 5.7%
+Text contribution:  94.3%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['basically', 'im', 'dyke', 'dyke', '..']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [51:223, 6:216]
+  Box dimensions: 172x210 pixels
+100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [01:00<00:00,  6.10s/it]
+
+============================================================
+AGGREGATE RESULTS - MULTIMODAL MODEL
+============================================================
+Average Image Contribution: 15.4%
+Average Text Contribution:  84.6%
