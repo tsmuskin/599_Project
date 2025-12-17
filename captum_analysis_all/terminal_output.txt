@@ -1,0 +1,972 @@
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 100.00%)
+Image contribution: 16.2%
+Text contribution:  83.8%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['sj', 'sez', 'so', 'see', 'gap']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [8:216, 17:202]
+  Box dimensions: 208x185 pixels
+ 98%|████████████████████████████████████████████████████████████████████████▍ | 1957/2000 [2:58:00<03:40,  5.13s/it]
+============================================================
+Analyzing sample 1957
+============================================================
+Text: she go the distance behind her brothers ....... for her and her alone i’ll kill a nigga 💪🏾 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 100.00%)
+Image contribution: 9.6%
+Text contribution:  90.4%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:571: UserWarning: Glyph 128170 (\N{FLEXED BICEPS}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:571: UserWarning: Glyph 127998 (\N{EMOJI MODIFIER FITZPATRICK TYPE-5}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:573: UserWarning: Glyph 128170 (\N{FLEXED BICEPS}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:573: UserWarning: Glyph 127998 (\N{EMOJI MODIFIER FITZPATRICK TYPE-5}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+Top 5 tokens: ['distance', 'go', 'brothers', 'behind', 'the']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [17:52, 174:223]
+  Box dimensions: 35x49 pixels
+ 98%|████████████████████████████████████████████████████████████████████████▍ | 1958/2000 [2:58:06<03:47,  5.41s/it]
+============================================================
+Analyzing sample 1958
+============================================================
+Text: @kingmarozi @shehabagencyen @idfspokesperson @israel zionazi pig, can't wait until you roast... 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 99.67%)
+Image contribution: 81.2%
+Text contribution:  18.8%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['zion', 'pig', 'israel', ',', 'azi']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:160, 109:204]
+  Box dimensions: 160x95 pixels
+ 98%|████████████████████████████████████████████████████████████████████████▍ | 1959/2000 [2:58:12<03:50,  5.63s/it]
+============================================================
+Analyzing sample 1959
+============================================================
+Text: @barakavelli2 foh, nigger! 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 6.8%
+Text contribution:  93.2%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['gger', 'ni', '@', 'barak', '!']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [34:216, 7:205]
+  Box dimensions: 182x198 pixels
+ 98%|████████████████████████████████████████████████████████████████████████▌ | 1960/2000 [2:58:18<03:44,  5.62s/it]
+============================================================
+Analyzing sample 1960
+============================================================
+Text: he called me a paki faggot 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 4.5%
+Text contribution:  95.5%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['pa', 'ki', 'called', 'he', 'a']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [106:215, 25:168]
+  Box dimensions: 109x143 pixels
+ 98%|████████████████████████████████████████████████████████████████████████▌ | 1961/2000 [2:58:24<03:44,  5.77s/it]
+============================================================
+Analyzing sample 1961
+============================================================
+Text: a nigga keeping tabs👅 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 100.00%)
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:502: UserWarning: Glyph 128069 (\N{TONGUE}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:504: UserWarning: Glyph 128069 (\N{TONGUE}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+Image contribution: 31.3%
+Text contribution:  68.7%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:571: UserWarning: Glyph 128069 (\N{TONGUE}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:573: UserWarning: Glyph 128069 (\N{TONGUE}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+Top 5 tokens: ['tabs', 'a', 'keeping', 'ni', 'gga']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:157, 0:219]
+  Box dimensions: 157x219 pixels
+ 98%|████████████████████████████████████████████████████████████████████████▌ | 1962/2000 [2:58:29<03:34,  5.65s/it]
+============================================================
+Analyzing sample 1962
+============================================================
+Text: @jasminellv lemme help this nigga get laid... 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 100.00%)
+Image contribution: 29.2%
+Text contribution:  70.8%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['jasmin', 'ell', 'gga', '@', 'laid']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [2:157, 137:216]
+  Box dimensions: 155x79 pixels
+ 98%|████████████████████████████████████████████████████████████████████████▋ | 1963/2000 [2:58:34<03:25,  5.55s/it]
+============================================================
+Analyzing sample 1963
+============================================================
+Text: @nathorix dude has this large of an audience and uses it to act like an absolute retard smh 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 17.4%
+Text contribution:  82.6%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['audience', 'smh', '@', 'ard', 'an']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [3:215, 51:202]
+  Box dimensions: 212x151 pixels
+ 98%|████████████████████████████████████████████████████████████████████████▋ | 1964/2000 [2:58:39<03:09,  5.25s/it]
+============================================================
+Analyzing sample 1964
+============================================================
+Text: @nickiminaj pussy you tried, pussy ass nigga you lie, pussy ass nigga you high, bitch im me 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 94.05%)
+Image contribution: 95.5%
+Text contribution:  4.5%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['lie', 'ssy', 'pu', 'you', '@']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:119, 102:216]
+  Box dimensions: 119x114 pixels
+ 98%|████████████████████████████████████████████████████████████████████████▋ | 1965/2000 [2:58:44<03:02,  5.20s/it]
+============================================================
+Analyzing sample 1965
+============================================================
+Text: @nishashah88 till now,i thought you were just an illiterate. so you are a retard too! 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 1.2%
+Text contribution:  98.8%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['shah', 'sha', '@', 'ni', 'ret']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [8:201, 20:203]
+  Box dimensions: 193x183 pixels
+ 98%|████████████████████████████████████████████████████████████████████████▋ | 1966/2000 [2:58:49<02:56,  5.20s/it]
+============================================================
+Analyzing sample 1966
+============================================================
+Text: there's no escape for weak wimpy men, feminised, humiliated and forced to suck off dirty old men #sissy #faggot 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 61.0%
+Text contribution:  39.0%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['su', 'men', 'dirty', 'there', 'forced']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [11:216, 3:202]
+  Box dimensions: 205x199 pixels
+ 98%|████████████████████████████████████████████████████████████████████████▊ | 1967/2000 [2:58:54<02:52,  5.23s/it]
+============================================================
+Analyzing sample 1967
+============================================================
+Text: when a fake @cadburyireland's box give away appeals to the fat cunt in me... 😂 too good to be real 😂 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 93.22%)
+Image contribution: 6.7%
+Text contribution:  93.3%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['appeals', 'box', 'when', 'cad', 'ireland']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [17:78, 18:50]
+  Box dimensions: 61x32 pixels
+ 98%|████████████████████████████████████████████████████████████████████████▊ | 1968/2000 [2:58:59<02:44,  5.14s/it]
+============================================================
+Analyzing sample 1968
+============================================================
+Text: i’m literally the biggest youtube cunt ever lmao 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 98.67%)
+Image contribution: 91.6%
+Text contribution:  8.4%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['literally', 'youtube', 'biggest', 'the', 'âĢ']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [21:216, 21:216]
+  Box dimensions: 195x195 pixels
+ 98%|████████████████████████████████████████████████████████████████████████▊ | 1969/2000 [2:59:06<02:55,  5.66s/it]
+============================================================
+Analyzing sample 1969
+============================================================
+Text: @blyden_ @bipolar_b #butwhythough? e nigga you gay 😂 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 94.69%)
+Image contribution: 3.7%
+Text contribution:  96.3%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['bly', '_', '@', '@', 'gga']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [9:223, 65:223]
+  Box dimensions: 214x158 pixels
+ 98%|████████████████████████████████████████████████████████████████████████▉ | 1970/2000 [2:59:11<02:42,  5.41s/it]
+============================================================
+Analyzing sample 1970
+============================================================
+Text: @doktordandy @khanisma don't pity that nigger bro, this is the only thing i can use against him aside ogbono united 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 1.6%
+Text contribution:  98.4%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['aside', 'him', 'ni', 'gger', '@']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:223, 21:214]
+  Box dimensions: 223x193 pixels
+ 99%|████████████████████████████████████████████████████████████████████████▉ | 1971/2000 [2:59:18<02:51,  5.90s/it]
+============================================================
+Analyzing sample 1971
+============================================================
+Text: you can’t take no nigga from me i got mind control 😏💋 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 100.00%)
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:502: UserWarning: Glyph 128139 (\N{KISS MARK}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:504: UserWarning: Glyph 128139 (\N{KISS MARK}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+Image contribution: 86.5%
+Text contribution:  13.5%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:571: UserWarning: Glyph 128139 (\N{KISS MARK}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:573: UserWarning: Glyph 128139 (\N{KISS MARK}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+Top 5 tokens: ['t', 'Ļ', 'âĢ', 'can', 'you']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [36:217, 19:212]
+  Box dimensions: 181x193 pixels
+ 99%|████████████████████████████████████████████████████████████████████████▉ | 1972/2000 [2:59:23<02:38,  5.65s/it]
+============================================================
+Analyzing sample 1972
+============================================================
+Text: so excited to announce erase erase erupt's first cabaret act: daviday dyke - on a mission to bring back the bush! 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 100.00%)
+Image contribution: 24.3%
+Text contribution:  75.7%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['bush', 'the', 'erase', 'so', 'bring']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:37, 0:62]
+  Box dimensions: 37x62 pixels
+ 99%|█████████████████████████████████████████████████████████████████████████ | 1973/2000 [2:59:28<02:26,  5.42s/it]
+============================================================
+Analyzing sample 1973
+============================================================
+Text: @javi_3094 nigga hmmm 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 100.00%)
+Image contribution: 13.3%
+Text contribution:  86.7%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['9', '0', 'javi', '3', '@']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [34:223, 12:223]
+  Box dimensions: 189x211 pixels
+ 99%|█████████████████████████████████████████████████████████████████████████ | 1974/2000 [2:59:33<02:17,  5.30s/it]
+============================================================
+Analyzing sample 1974
+============================================================
+Text: zoom zoom nigga 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 100.00%)
+Image contribution: 26.6%
+Text contribution:  73.4%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['zoom', 'zoom', 'gga', 'ni']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [19:174, 4:77]
+  Box dimensions: 155x73 pixels
+ 99%|█████████████████████████████████████████████████████████████████████████ | 1975/2000 [2:59:39<02:13,  5.36s/it]
+============================================================
+Analyzing sample 1975
+============================================================
+Text: police stations nationwide now open to rebels who want to surrender  
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 100.00%)
+Image contribution: 17.3%
+Text contribution:  82.7%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['rebels', 'police', 'surrender', 'nationwide', 'stations']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:24, 134:216]
+  Box dimensions: 24x82 pixels
+ 99%|█████████████████████████████████████████████████████████████████████████ | 1976/2000 [2:59:45<02:18,  5.75s/it]
+============================================================
+Analyzing sample 1976
+============================================================
+Text: @queenamazi so it literally makes a nxgga retarded after you break’em off? 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 7.7%
+Text contribution:  92.3%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['retarded', 'gga', 'nx', '@', 'amaz']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:223, 0:216]
+  Box dimensions: 223x216 pixels
+ 99%|█████████████████████████████████████████████████████████████████████████▏| 1977/2000 [2:59:50<02:08,  5.58s/it]
+============================================================
+Analyzing sample 1977
+============================================================
+Text: this nigga said trade a bmx bike for a iphone. bro wtf 😂😂😂 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 100.00%)
+Image contribution: 11.1%
+Text contribution:  88.9%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['ni', 'for', 'gga', 'bmx', 'bike']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [76:219, 62:173]
+  Box dimensions: 143x111 pixels
+ 99%|█████████████████████████████████████████████████████████████████████████▏| 1978/2000 [2:59:56<02:00,  5.46s/it]
+============================================================
+Analyzing sample 1978
+============================================================
+Text: a faggot waiting patiently for what comes next. #locked #plugged #faggot 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 35.5%
+Text contribution:  64.5%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['waiting', 'fag', 'got', 'a', 'locked']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:201, 9:104]
+  Box dimensions: 201x95 pixels
+ 99%|█████████████████████████████████████████████████████████████████████████▏| 1979/2000 [3:00:01<01:55,  5.51s/it]
+============================================================
+Analyzing sample 1979
+============================================================
+Text: @deathhorsemann cunt fuck. now i'm angry 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 99.79%)
+Image contribution: 12.9%
+Text contribution:  87.1%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['unt', 'horse', 'mann', '@', 'c']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [62:134, 18:217]
+  Box dimensions: 72x199 pixels
+ 99%|█████████████████████████████████████████████████████████████████████████▎| 1980/2000 [3:00:08<01:55,  5.77s/it]
+============================================================
+Analyzing sample 1980
+============================================================
+Text: oh yes my dyke ass is so interested 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 8.6%
+Text contribution:  91.4%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['oh', 'yes', 'dyke', 'interested', 'ass']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [7:213, 0:216]
+  Box dimensions: 206x216 pixels
+ 99%|█████████████████████████████████████████████████████████████████████████▎| 1981/2000 [3:00:12<01:43,  5.47s/it]
+============================================================
+Analyzing sample 1981
+============================================================
+Text: @chelseafc @alvaromorata go back to being a nurse you cunt 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 99.99%)
+Image contribution: 1.2%
+Text contribution:  98.8%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['unt', '@', 'c', 'alvar', 'chelseafc']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:212, 88:206]
+  Box dimensions: 212x118 pixels
+ 99%|█████████████████████████████████████████████████████████████████████████▎| 1982/2000 [3:00:17<01:36,  5.35s/it]
+============================================================
+Analyzing sample 1982
+============================================================
+Text: uh oh here comes the dyke 😘 #hereforlgbtqs 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 3.2%
+Text contribution:  96.8%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['uh', 'lgbt', 'oh', 'comes', 'here']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [6:217, 19:130]
+  Box dimensions: 211x111 pixels
+ 99%|█████████████████████████████████████████████████████████████████████████▎| 1983/2000 [3:00:23<01:32,  5.42s/it]
+============================================================
+Analyzing sample 1983
+============================================================
+Text: twat 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 94.07%)
+Image contribution: 14.0%
+Text contribution:  86.0%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['tw', 'at']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:206, 51:212]
+  Box dimensions: 206x161 pixels
+ 99%|█████████████████████████████████████████████████████████████████████████▍| 1984/2000 [3:00:28<01:25,  5.34s/it]
+============================================================
+Analyzing sample 1984
+============================================================
+Text: 😂😂😂😂😂 nigga forgot bout this shit 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 100.00%)
+Image contribution: 8.3%
+Text contribution:  91.7%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['sh', 'forgot', 'gga', 'ðŁĺĤðŁĺĤðŁĺĤðŁĺĤðŁĺĤ', 'ni']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:46, 93:204]
+  Box dimensions: 46x111 pixels
+ 99%|█████████████████████████████████████████████████████████████████████████▍| 1985/2000 [3:00:33<01:18,  5.26s/it]
+============================================================
+Analyzing sample 1985
+============================================================
+Text: fuckin on this #rich ass, #scamming ass nigga -cc 👑🔮  
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 99.84%)
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:502: UserWarning: Glyph 128081 (\N{CROWN}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:502: UserWarning: Glyph 128302 (\N{CRYSTAL BALL}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:504: UserWarning: Glyph 128081 (\N{CROWN}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:504: UserWarning: Glyph 128302 (\N{CRYSTAL BALL}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+Image contribution: 88.7%
+Text contribution:  11.3%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:571: UserWarning: Glyph 128081 (\N{CROWN}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:571: UserWarning: Glyph 128302 (\N{CRYSTAL BALL}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:573: UserWarning: Glyph 128081 (\N{CROWN}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:573: UserWarning: Glyph 128302 (\N{CRYSTAL BALL}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+Top 5 tokens: ['scam', 'ming', 'fu', 'gga', 'rich']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [6:51, 63:214]
+  Box dimensions: 45x151 pixels
+ 99%|█████████████████████████████████████████████████████████████████████████▍| 1986/2000 [3:00:38<01:12,  5.18s/it]
+============================================================
+Analyzing sample 1986
+============================================================
+Text: o senhor bolsonaro makes trump look like a pussy-hat-wearing sjw. 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 90.27%)
+Image contribution: 8.5%
+Text contribution:  91.5%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['hor', 'sen', 'o', 'bol', 'son']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:223, 3:203]
+  Box dimensions: 223x200 pixels
+ 99%|█████████████████████████████████████████████████████████████████████████▌| 1987/2000 [3:00:43<01:06,  5.13s/it]
+============================================================
+Analyzing sample 1987
+============================================================
+Text: spit in your white bitches mouth.  she needs to know that she is a receptacle for all nigger fluids. 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 13.3%
+Text contribution:  86.7%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['spit', 'fluids', 'gger', 'ni', 'all']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:223, 104:203]
+  Box dimensions: 223x99 pixels
+ 99%|█████████████████████████████████████████████████████████████████████████▌| 1988/2000 [3:00:50<01:07,  5.59s/it]
+============================================================
+Analyzing sample 1988
+============================================================
+Text: @kgoth_tsotm my nigga😤🙌🏾🔥 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 100.00%)
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:502: UserWarning: Glyph 128548 (\N{FACE WITH LOOK OF TRIUMPH}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:502: UserWarning: Glyph 128588 (\N{PERSON RAISING BOTH HANDS IN CELEBRATION}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:502: UserWarning: Glyph 127998 (\N{EMOJI MODIFIER FITZPATRICK TYPE-5}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:502: UserWarning: Glyph 128293 (\N{FIRE}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:504: UserWarning: Glyph 128548 (\N{FACE WITH LOOK OF TRIUMPH}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:504: UserWarning: Glyph 128588 (\N{PERSON RAISING BOTH HANDS IN CELEBRATION}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:504: UserWarning: Glyph 127998 (\N{EMOJI MODIFIER FITZPATRICK TYPE-5}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:504: UserWarning: Glyph 128293 (\N{FIRE}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+Image contribution: 50.9%
+Text contribution:  49.1%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:571: UserWarning: Glyph 128548 (\N{FACE WITH LOOK OF TRIUMPH}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:571: UserWarning: Glyph 128588 (\N{PERSON RAISING BOTH HANDS IN CELEBRATION}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:571: UserWarning: Glyph 127998 (\N{EMOJI MODIFIER FITZPATRICK TYPE-5}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:571: UserWarning: Glyph 128293 (\N{FIRE}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:573: UserWarning: Glyph 128548 (\N{FACE WITH LOOK OF TRIUMPH}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:573: UserWarning: Glyph 128588 (\N{PERSON RAISING BOTH HANDS IN CELEBRATION}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:573: UserWarning: Glyph 127998 (\N{EMOJI MODIFIER FITZPATRICK TYPE-5}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:573: UserWarning: Glyph 128293 (\N{FIRE}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+Top 5 tokens: ['tm', 'so', 'goth', 'k', 't']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [91:223, 0:160]
+  Box dimensions: 132x160 pixels
+ 99%|█████████████████████████████████████████████████████████████████████████▌| 1989/2000 [3:00:56<01:03,  5.81s/it]
+============================================================
+Analyzing sample 1989
+============================================================
+Text: @stevemorris__ #democrats always playing the race card 🤦‍♂️ 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:502: UserWarning: Glyph 129318 (\N{FACE PALM}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:504: UserWarning: Glyph 129318 (\N{FACE PALM}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+Image contribution: 1.6%
+Text contribution:  98.4%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:571: UserWarning: Glyph 129318 (\N{FACE PALM}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:573: UserWarning: Glyph 129318 (\N{FACE PALM}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+Top 5 tokens: ['__', '@', '#', 'steve', 'morris']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:223, 74:173]
+  Box dimensions: 223x99 pixels
+100%|█████████████████████████████████████████████████████████████████████████▋| 1990/2000 [3:01:01<00:54,  5.44s/it]
+============================================================
+Analyzing sample 1990
+============================================================
+Text: nigga said 👺 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 100.00%)
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:502: UserWarning: Glyph 128122 (\N{JAPANESE GOBLIN}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:504: UserWarning: Glyph 128122 (\N{JAPANESE GOBLIN}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+Image contribution: 42.3%
+Text contribution:  57.7%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:571: UserWarning: Glyph 128122 (\N{JAPANESE GOBLIN}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/CaptumIntegratedGradientscopy.py:573: UserWarning: Glyph 128122 (\N{JAPANESE GOBLIN}) missing from font(s) DejaVu Sans.
+  plt.savefig(fname, dpi=300, bbox_inches="tight")
+Top 5 tokens: ['º', 'ðŁĳ', 'ni', 'gga', 'said']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:223, 0:223]
+  Box dimensions: 223x223 pixels
+100%|█████████████████████████████████████████████████████████████████████████▋| 1991/2000 [3:01:07<00:51,  5.72s/it]
+============================================================
+Analyzing sample 1991
+============================================================
+Text: @tomilahren dont to it you trash you know some of your racist white people didnt give the man a change #teaparty 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 0.7%
+Text contribution:  99.3%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['racist', 'your', 'teaparty', 'ren', '@']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [7:223, 10:223]
+  Box dimensions: 216x213 pixels
+100%|█████████████████████████████████████████████████████████████████████████▋| 1992/2000 [3:01:14<00:47,  5.97s/it]
+============================================================
+Analyzing sample 1992
+============================================================
+Text: @dicksindean b.b. with the robins looking all retarded 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 100.00%)
+Image contribution: 7.9%
+Text contribution:  92.1%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['dean', 'b', '@', 'sin', 'dick']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [17:223, 48:216]
+  Box dimensions: 206x168 pixels
+100%|█████████████████████████████████████████████████████████████████████████▋| 1993/2000 [3:01:19<00:40,  5.83s/it]
+============================================================
+Analyzing sample 1993
+============================================================
+Text: the full gallery:  cute alexis texas strips off her underwear and exposes her hairy cunt... 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 99.88%)
+Image contribution: 88.5%
+Text contribution:  11.5%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['alexis', 'gallery', 'full', 'the', 'cute']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [9:223, 20:75]
+  Box dimensions: 214x55 pixels
+100%|█████████████████████████████████████████████████████████████████████████▊| 1994/2000 [3:01:25<00:35,  5.93s/it]
+============================================================
+Analyzing sample 1994
+============================================================
+Text: that fat nigga said he in the white house!! 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 100.00%)
+Image contribution: 23.0%
+Text contribution:  77.0%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['fat', 'that', 'white', 'the', 'gga']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [185:223, 47:94]
+  Box dimensions: 38x47 pixels
+100%|█████████████████████████████████████████████████████████████████████████▊| 1995/2000 [3:01:31<00:29,  5.84s/it]
+============================================================
+Analyzing sample 1995
+============================================================
+Text: “i need a nigga with stroke aye” 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 100.00%)
+Image contribution: 51.7%
+Text contribution:  48.3%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['stroke', 'with', 'ni', 'âĢ', 'a']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [171:214, 31:77]
+  Box dimensions: 43x46 pixels
+100%|█████████████████████████████████████████████████████████████████████████▊| 1996/2000 [3:01:36<00:22,  5.57s/it]
+============================================================
+Analyzing sample 1996
+============================================================
+Text: @lrihendry @realdonaldtrump hey cunt 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 99.93%)
+Image contribution: 85.7%
+Text contribution:  14.3%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['realdonaldtrump', 'unt', '@', 'c', 'hend']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [45:148, 0:218]
+  Box dimensions: 103x218 pixels
+100%|█████████████████████████████████████████████████████████████████████████▉| 1997/2000 [3:01:41<00:16,  5.54s/it]
+============================================================
+Analyzing sample 1997
+============================================================
+Text: @femmeboss one nigga mess up all of sudden all of us are fuck ups...hmm 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 100.00%)
+Image contribution: 6.8%
+Text contribution:  93.2%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['fem', 'gga', '@', 'ni', 'me']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [143:217, 18:77]
+  Box dimensions: 74x59 pixels
+100%|█████████████████████████████████████████████████████████████████████████▉| 1998/2000 [3:01:47<00:10,  5.41s/it]
+============================================================
+Analyzing sample 1998
+============================================================
+Text: i’d honesty two foot this twat into a snake pit. 
+True Label: Not Hate
+
+--- Multimodal Model ---
+Prediction: Not Hate (confidence: 98.82%)
+Image contribution: 38.4%
+Text contribution:  61.6%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['pit', 'honesty', 'snake', 'âĢ', 'd']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [17:206, 23:205]
+  Box dimensions: 189x182 pixels
+100%|█████████████████████████████████████████████████████████████████████████▉| 1999/2000 [3:01:51<00:05,  5.19s/it]
+============================================================
+Analyzing sample 1999
+============================================================
+Text: @arielle_danan "you're a cunt stuffer" haha.........ok, that line got me xd 
+True Label: Hate Speech
+
+--- Multimodal Model ---
+Prediction: Hate Speech (confidence: 99.30%)
+Image contribution: 3.0%
+Text contribution:  97.0%
+
+--- Text-Only Model ---
+Prediction: Hate Speech (confidence: 50.33%)
+Top 5 tokens: ['dan', 'an', '@', '_', 'ari']
+
+--- Image-Only Model ---
+Prediction: Hate Speech (confidence: 50.62%)
+  Bounding box: [0:214, 0:206]
+  Box dimensions: 214x206 pixels
+100%|██████████████████████████████████████████████████████████████████████████| 2000/2000 [3:01:56<00:00,  5.46s/it]
+
+============================================================
+AGGREGATE RESULTS - MULTIMODAL MODEL
+============================================================
+Average Image Contribution: 18.7%
+Average Text Contribution:  81.3%
+
+All visualizations saved to: /projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/captum_analysis_all
+
+✅ Attribution analysis complete!
