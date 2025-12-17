@@ -1,0 +1,13 @@
+Final Test Loss: 0.6172
+Final Test Accuracy: 68.05%
+Final Test F1-Score (Weighted): 0.6797
+
+--- Classification Report ---
+                 precision    recall  f1-score   support
+
+   Not Hate (0)       0.66      0.73      0.70       994
+Hate Speech (1)       0.70      0.63      0.66      1006
+
+       accuracy                           0.68      2000
+      macro avg       0.68      0.68      0.68      2000
+   weighted avg       0.68      0.68      0.68      2000

@@ -297,13 +297,14 @@ class MultimodalHateSpeechDataCleaner:
         print(f"   Test images shape: {self.X_test_image.shape}")
         return self
     
-    def process_all(self, load_images=True, balance=True):
+    def process_all(self, load_images=True, balance=True, target_size=10000):
         """
         Run the complete data processing pipeline.
         
         Args:
             load_images (bool): Whether to load images (can be slow)
             balance (bool): Whether to balance the dataset
+            target_size=10000
             
         Returns:
             self: The DataCleaner instance with all processed data
