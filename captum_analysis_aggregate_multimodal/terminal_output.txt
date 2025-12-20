@@ -1,0 +1,11 @@
+============================================================
+AGGREGATE RESULTS - MULTIMODAL MODEL (ALL SAMPLES)
+============================================================
+Total samples analyzed: 2000
+Average Image Contribution: 18.7% (±21.0%)
+Average Text Contribution:  81.3% (±21.0%)
+
+✅ Aggregate visualization saved to: /projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/captum_analysis_aggregate_multimodal/aggregate_modality_analysis.png
+✅ Raw data saved to: /projectnb/cs599m1/projects/multimodal-hatespeech/599_Project/captum_analysis_aggregate_multimodal/modality_contributions.csv
+
+✅ Multimodal attribution analysis complete!

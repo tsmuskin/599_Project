@@ -25,7 +25,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Using device: {device}")
 
 BASE_PATH = "/projectnb/cs599m1/projects/multimodal-hatespeech/599_Project"
-OUTPUT_DIR = os.path.join(BASE_PATH, "captum_analysis_all")
+OUTPUT_DIR = os.path.join(BASE_PATH, "captum_analysis")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # ============================================================================
@@ -704,11 +704,11 @@ def visualize_top_k_pixels(pixel_attr, image, k=100, sample_idx=0, output_dir=""
 # MAIN ANALYSIS LOOP
 # ============================================================================
 
-def analyze_samples(num_samples=len(X_test), k_tokens=10, k_pixels=100):
+def analyze_samples(num_samples=10, k_tokens=10, k_pixels=100):
     print(f"\nAnalyzing {num_samples} samples...\n")
     multimodal_results = {"image_contrib": [], "text_contrib": []}
 
-    for idx in tqdm(range(len(X_test))):
+    for idx in tqdm(range(num_samples)):
         print("\n" + "=" * 60)
         print(f"Analyzing sample {idx}")
         print("=" * 60)
@@ -791,5 +791,5 @@ def analyze_samples(num_samples=len(X_test), k_tokens=10, k_pixels=100):
 # ============================================================================
 
 if __name__ == "__main__":
-    analyze_samples(num_samples=len(X_test), k_tokens=10, k_pixels=100)
+    analyze_samples(num_samples=10, k_tokens=10, k_pixels=100)
     print("\n✅ Attribution analysis complete!")

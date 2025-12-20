@@ -104,10 +104,10 @@ class CLIPTextOnlyClassifier(nn.Module):
         self.classifier = nn.Sequential(
             nn.Linear(self.embed_dim, 512),
             nn.ReLU(),
-            nn.Dropout(0.6),
+            nn.Dropout(0.2),
             nn.Linear(512, 256),
             nn.ReLU(),
-            nn.Dropout(0.6),
+            nn.Dropout(0.2),
             nn.Linear(256, 2)
         )
         
@@ -152,13 +152,14 @@ print(f"Percentage trainable: {100 * trainable_params / total_params:.2f}%")
 # Step 6: Training setup
 criterion = nn.CrossEntropyLoss()
 
-BACKBONE_LR = 1e-3
-HEAD_LR = 1e-2
+BACKBONE_LR = 1e-5
+HEAD_LR = 3e-4
 
 optimizer = torch.optim.AdamW([
-    {'params': model.backbone_params, 'lr': BACKBONE_LR, 'weight_decay': 0.05},
-    {'params': model.classifier_params, 'lr': HEAD_LR, 'weight_decay': 0.05}
+    {'params': model.backbone_params, 'lr': BACKBONE_LR, 'weight_decay': 0.01},
+    {'params': model.classifier_params, 'lr': HEAD_LR, 'weight_decay': 0.01}
 ])
+
 
 num_epochs = 15
 scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=num_epochs) 
